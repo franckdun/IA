@@ -14,11 +14,11 @@
 <!-- statistiques -->
 <a href="https://wakatime.com/projects/Learning-plan_Open"><img src="https://img.shields.io/badge/📈-Wakatime-7451eb" > </a>
 <!-- LEARN GALERY -->
-<a href="https://github.com/franckdun/Learn-GALERY"><img src="https://img.shields.io/badge/Learn-Galery-ffc944" width="#" height="#" ></a></p>
+<a href="https://github.com/franckdun/Learn-GALERY"><img src="https://img.shields.io/badge/Learn-Galery-ffc944" width="#" height="#" ></a>
+<!-- Issues -->
+<a href="https://github.com/franckdun/Learning-plan_Openclassrooms/issues?q=is%3Aopen+is%3Aissue+project%3Afranckdun%2F5+mil"> <img src="https://img.shields.io/badge/📌-Issues-8E24AA"></a></p>
 
 <!-- Partie 5 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-## WXY 7 - Créez un réseau social d’entreprise	
 	
 ### <p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassrooms/issues?q=is%3Aopen+is%3Aissue+project%3Afranckdun%2F5+mil"> <img src="https://img.shields.io/badge/📌-Issues-8E24AA"></a>&#32; 90h de formation - A finir avant le 16/01/2023.</p> 
 
