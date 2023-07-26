@@ -13,24 +13,26 @@
 <a href="https://github.com/franckdun/Learning-plan/milestones?direction=asc&sort=due_date&state=open"><img src="https://img.shields.io/badge/💎-LEARNING%20PLAN-7451eb" > </a>
 <!-- statistiques -->
 <a href="https://wakatime.com/projects/Learning-plan_Open"><img src="https://img.shields.io/badge/📈-Wakatime-7451eb" > </a>
-<!-- LEARN GALERY -->
-<a href="https://github.com/franckdun/Learn-GALERY"><img src="https://img.shields.io/badge/Learn-Galery-ffc944" width="#" height="#" ></a>
 <!-- Issues -->
 <a href="https://github.com/franckdun/Learning-plan_Openclassrooms/issues?q=is%3Aopen+is%3Aissue+project%3Afranckdun%2F5+mil"> <img src="https://img.shields.io/badge/📌-Issues-8E24AA"></a></p>
 
 <!-- Partie 5 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-	
-### <p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassrooms/issues?q=is%3Aopen+is%3Aissue+project%3Afranckdun%2F5+mil"> <img src="https://img.shields.io/badge/📌-Issues-8E24AA"></a>&#32; 90h de formation - A finir avant le 16/01/2023.</p> 
 
-<p align="center"><a href="https://openclassrooms.com/fr/courses/7008001-debutez-avec-react"> <img src="https://img.shields.io/badge/MODULE_1- Débutez avec React -8E24AA" width="600"> </a></p>
+<p align="center"><a href="https://openclassrooms.com/fr/courses/7008001-debutez-avec-react"> <img src="https://img.shields.io/badge/MODULE_1- Débutez avec l'IA -8E24AA" width="#"> </a></p>
 
 	
 	Durée: 8h  ||  Difficulté: 🥑  ||  Etapes:  📌📌📌🖋📌📌📌📌📌🖋📌📌📌🖋📌
-	
-	
-<p align="center"><a href="https://mega.nz/file/lc413YxA#6sqj1AyRJpi5jXDGzun2cSQiscJKqcF-i4qLKeqKZbw"><img src="https://img.shields.io/badge/Toute les Videos du cours-Mega-ff002f"></a></p>
+
+<p align="center"><a href="https://openclassrooms.com/fr/courses/7008001-debutez-avec-react"> <img src="https://img.shields.io/badge/MODULE_2- Débutez avec l'IA -8E24AA" width="#"> </a></p>
 
 	
+	Durée: 8h  ||  Difficulté: 🥑  ||  Etapes:  📌📌📌🖋📌📌📌📌📌🖋📌📌📌🖋📌
+
+
+ <p align="center"><a href="https://openclassrooms.com/fr/courses/7008001-debutez-avec-react"> <img src="https://img.shields.io/badge/MODULE_3- Débutez avec l'IA -8E24AA" width="#"> </a></p>
+
+	
+	Durée: 8h  ||  Difficulté: 🥑  ||  Etapes:  📌📌📌🖋📌📌📌📌📌🖋📌📌📌🖋📌
 Table des matières
 
 ```	
