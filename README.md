@@ -18,18 +18,18 @@
 
 <!-- Partie 5 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-<p align="center"><a href="https://openclassrooms.com/fr/courses/7008001-debutez-avec-react"> <img src="https://img.shields.io/badge/MODULE_1- Débutez avec l'IA -8E24AA" width="#"> </a></p>
+<p align="center"><a href="https://github.com/franckdun/IA_module-1"> <img src="https://img.shields.io/badge/MODULE_1- Débutez avec l'IA -8E24AA" width="#"> </a></p>
 
 	
 	Durée: 8h  ||  Difficulté: 🥑  ||  Etapes:  📌📌📌🖋📌📌📌📌📌🖋📌📌📌🖋📌
 
-<p align="center"><a href="https://openclassrooms.com/fr/courses/7008001-debutez-avec-react"> <img src="https://img.shields.io/badge/MODULE_2- Débutez avec l'IA -8E24AA" width="#"> </a></p>
+<p align="center"><a href="https://github.com/franckdun/IA_module-2"> <img src="https://img.shields.io/badge/MODULE_2- Débutez avec l'IA -8E24AA" width="#"> </a></p>
 
 	
 	Durée: 8h  ||  Difficulté: 🥑  ||  Etapes:  📌📌📌🖋📌📌📌📌📌🖋📌📌📌🖋📌
 
 
- <p align="center"><a href="https://openclassrooms.com/fr/courses/7008001-debutez-avec-react"> <img src="https://img.shields.io/badge/MODULE_3- Débutez avec l'IA -8E24AA" width="#"> </a></p>
+ <p align="center"><a href="https://github.com/franckdun/IA_module-3"> <img src="https://img.shields.io/badge/MODULE_3- Débutez avec l'IA -8E24AA" width="#"> </a></p>
 
 	
 	Durée: 8h  ||  Difficulté: 🥑  ||  Etapes:  📌📌📌🖋📌📌📌📌📌🖋📌📌📌🖋📌
