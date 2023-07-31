@@ -49,16 +49,6 @@
 </div>
 
 
-<summary><p align="left"><em><strong>Module 1, 2, 3.</strong></em></p></summary>
-
-
-<p align="center"><a href="#"> <img src="https://img.shields.io/badge/Go%20to-MODULE_1-8E24AA"> </a><a href="#"> <img src="https://img.shields.io/badge/Go%20to-MODULE_2-8E24AA"> </a><a href="#"> <img src="https://img.shields.io/badge/Go%20to-MODULE_3-8E24AA"> </a></p>
-	
-	
-		
-		
-
-
 <!-- ORGANISATION ///////////////////////////////////////////////////////////////////////////////////////////////////////////// -->	
 	
 <details><summary><h4><em><strong>Learning Organization</strong></em></h4></summary>
