@@ -18,28 +18,17 @@
 
 <!-- Partie 5 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-<p align="center"><a href="https://github.com/franckdun/IA_module-1"> <img src="https://img.shields.io/badge/MODULE_1- Débutez avec l'IA -8E24AA" width="#"> </a></p>
-
-	
-	Durée: 8h  ||  Difficulté: 🥑  ||  Etapes:  📌📌📌🖋📌📌📌📌📌🖋📌📌📌🖋📌
+<p align="center"><a href="https://github.com/franckdun/IA_module-1"> <img src="https://img.shields.io/badge/MODULE_1- Débutez avec chatGPT -8E24AA" width="#"> </a></p>
 
 <p align="center"><a href="https://github.com/franckdun/IA_module-2"> <img src="https://img.shields.io/badge/MODULE_2- Débutez avec l'IA -8E24AA" width="#"> </a></p>
 
-	
-	Durée: 8h  ||  Difficulté: 🥑  ||  Etapes:  📌📌📌🖋📌📌📌📌📌🖋📌📌📌🖋📌
-
-
  <p align="center"><a href="https://github.com/franckdun/IA_module-3"> <img src="https://img.shields.io/badge/MODULE_3- Débutez avec l'IA -8E24AA" width="#"> </a></p>
-
-	
-	Durée: 8h  ||  Difficulté: 🥑  ||  Etapes:  📌📌📌🖋📌📌📌📌📌🖋📌📌📌🖋📌
-Table des matières
 
 
 <summary><p align="left"><em><strong>Module 1, 2, 3.</strong></em></p></summary>
 
 
-<p align="center"><a href="https://openclassrooms.com/fr/courses/7008001-debutez-avec-react"> <img src="https://img.shields.io/badge/Go%20to-MODULE_1-8E24AA"> </a><a href="https://github.com/franckdun/Open_Projet-7_Module-2"> <img src="https://img.shields.io/badge/Go%20to-MODULE_2-8E24AA"> </a><a href="https://github.com/franckdun/Open_Projet-7_Module-3"> <img src="https://img.shields.io/badge/Go%20to-MODULE_3-8E24AA"> </a></p>
+<p align="center"><a href="#"> <img src="https://img.shields.io/badge/Go%20to-MODULE_1-8E24AA"> </a><a href="#"> <img src="https://img.shields.io/badge/Go%20to-MODULE_2-8E24AA"> </a><a href="#"> <img src="https://img.shields.io/badge/Go%20to-MODULE_3-8E24AA"> </a></p>
 	
 	
 		
