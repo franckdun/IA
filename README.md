@@ -35,56 +35,6 @@
 	Durée: 8h  ||  Difficulté: 🥑  ||  Etapes:  📌📌📌🖋📌📌📌📌📌🖋📌📌📌🖋📌
 Table des matières
 
-```	
-    Partie 1 - Initiez-vous aux principes de React
-
-        1. Tirez le maximum de ce cours
-        2. Appréhendez la logique de React
-        3. Écrivez du code modulaire avec les composants en JSX
-
-        Quiz : Initiez-vous au fonctionnement de React
-```
-	
-```	
-    Partie 2 - Créez votre première application complète avec Create React App
-
-        1. Prenez en main Create React App
-        2. Incorporez du style et des assets à votre projet
-        3. Gagnez en temps et en efficacité grâce aux listes et aux conditions
-        4. Réutilisez vos composants avec les props
-        5. Interagissez avec vos composants grâce aux événements
-
-        Quiz : Créez votre première application complète avec Create React App
-```
-	
-```	
-    Partie 3 - Stockez et récupérez des données avec le state et les effets
-
-        1. Mettez en place votre state local avec useState
-        2. Partagez votre state entre différents composants
-        3. Déclenchez des effets avec useEffect
-
-        Quiz : Stockez et récupérez des données avec le state et les effets
-```
-	
-```	
-    Partie 4 - Conclusion
-
-        1. Revenez sur vos acquis 
-```
-	
-```	
-    Certificat de réussite 
-```
-
-
-
-
-
-
-
-
-
 
 <summary><p align="left"><em><strong>Module 1, 2, 3.</strong></em></p></summary>
 
@@ -123,17 +73,3 @@ Acquisition
 
 <!-- HELP //////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 	
-<details><summary><p align="left"><em><strong>HELP</strong></em></p></summary>	
-
-<p> <img src="https://github.com/franckdun/Learning-plan_Openclassrooms/blob/main/Formation/Programme_de_Formation/Img/Armel.jpg" width="50"> N'ésiter pas, demandez-moi ; </p>
-
-``` https://openclassrooms.com/fr/mp/nouveau/armel-ajavon-1 ``` </p>
-
-[![Documentation milestones](https://img.shields.io/badge/Doc-Milestones-blue?logo=github&logoColor=white)](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/creating-and-editing-milestones-for-issues-and-pull-requests) Pour avoir de l'aide sur le fonctionnement des milestones.
-
-<p align="left"><a href="https://www.zenhub.com/"> <img src="https://img.shields.io/badge/-zenhub-4f57f9?style=for-the-badge&labelColor=white&logo=zenhub&logoColor=4f57f9"> </a>Pour travailler en équipe.</p>
-
-</details>
-
----
-
