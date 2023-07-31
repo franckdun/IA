@@ -20,6 +20,39 @@
 
  <p align="center"><a href="https://github.com/franckdun/IA_module-3"> <img src="https://img.shields.io/badge/MODULE_3- Débutez avec l'IA -8E24AA" width="#"> </a></p>
 
+<!--////////////////////////////////// TABLE 9 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+
+<div align="center">
+  <table>
+	<tr width="#">  
+           <td width="#">	<!-- Github -->
+		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________*******_________</a></p>
+		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="#" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="#" height="100" alt="franckdun" /> </a></p>
+           </td>
+           <td width="#">	<!-- Github -->
+		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________*******_________</a></p>
+		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="#" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="#" height="100" alt="franckdun" /> </a></p>
+           </td>
+           <td width="#">	<!-- Github -->
+		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________*******_________</a></p>
+		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="#" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="#" height="100" alt="franckdun" /> </a></p>
+           </td>
+           <td width="#">	<!-- Github -->
+		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________*******_________</a></p>
+		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="#" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="#" height="100" alt="franckdun" /> </a></p>
+           </td>
+           <td width="#">	<!-- Github -->
+		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________*******_________</a></p>
+		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="#" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="#" height="100" alt="franckdun" /> </a></p>
+           </td>
+           <td width="#">	<!-- Github -->
+		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________*******_________</a></p>
+		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="#" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="#" height="100" alt="franckdun" /> </a></p>
+           </td>                 
+    </tr>
+ </table>
+</div>
+
 
 <summary><p align="left"><em><strong>Module 1, 2, 3.</strong></em></p></summary>
 
