@@ -1,10 +1,6 @@
 # <p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassroom"><img src="https://img.shields.io/badge/🏠-🎓%20 L'Intéligence Artificielle 2023%20🎓-8E24AA" width="750" ></a></p>
 
 <p align="center">
-<!-- mail -->
-<a href="https://mail.google.com/mail/u/0/#label/Openclassrooms"> <img src="https://img.shields.io/badge/📬-MAIL-7451eb"  >
-<!-- Agenda -->
-<a href="https://calendar.google.com/calendar/u/0/r/month/2022/7/1?pli=1"> <img src="https://img.shields.io/badge/📆-AGENDA-7451eb"  >
 <!-- taches -->
 <a href="https://github.com/franckdun/Learning-plan_Openclassrooms/issues?q=is%3Aopen+is%3Aissue+project%3Afranckdun%2F5+sort%3Acreated-asc"> <img src="https://img.shields.io/badge/📌-ALL ISSUES-7451eb" ></a>
 <!-- projet -->
