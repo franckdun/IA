@@ -23,7 +23,7 @@
 <p align="center"><a href="https://github.com/franckdun/IA_module-1"> <img src="https://img.shields.io/badge/MODULE_1- Débutez avec chatGPT -8E24AA" width="#"> </a></p>
            </td>
            <td width="#">	<!-- MODULE 2 -->
-		<p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________*******_________</a></p>
+		<p align="center"><a href="https://stablediffusionweb.com/" target="_blank" rel="noreferrer">____stablediffusionweb____</a></p>
 		<p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="#" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="#" height="100" alt="franckdun" /> </a></p>
 <p align="center"><a href="https://github.com/franckdun/IA_module-2"> <img src="https://img.shields.io/badge/MODULE_2- Débutez avec l'IA -8E24AA" width="#"> </a></p
            </td>
