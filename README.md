@@ -1,4 +1,4 @@
-# <p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassroom"><img src="https://img.shields.io/badge/🏠-🎓%20 L'Intelligence Artificielle 2023%20🎓-8E24AA" width="750" ></a></p>
+# <p align="center"><a href="https://github.com/franckdun/LEARN_WITH_BEN_BK"><img src="https://img.shields.io/badge/🏠-🎓%20 L'Intelligence Artificielle 2023%20🎓-8E24AA" width="750" ></a></p>
 
 <p align="center">
 <!-- taches -->
