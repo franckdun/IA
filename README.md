@@ -54,7 +54,7 @@
 
 # L'Intelligence Artificielle - Champs d'applications
 
-L'Intelligence Artificielle (IA) est un domaine en plein essor qui englobe un large éventail d'applications dans divers secteurs. Grâce à ses capacités d'analyse avancées, l'IA révolutionne de nombreux domaines de notre vie quotidienne. Voici quelques-uns des principaux champs d'applications de l'IA :
+<details><summary>L'Intelligence Artificielle (IA) est un domaine en plein essor qui englobe un large éventail d'applications dans divers secteurs. Grâce à ses capacités d'analyse avancées, l'IA révolutionne de nombreux domaines de notre vie quotidienne. Voici quelques-uns des principaux champs d'applications de l'IA :</summary>
 <!--////////////////////////////////// TABLE 2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
 <div align="center">
@@ -129,4 +129,4 @@ L'Intelligence Artificielle (IA) est un domaine en plein essor qui englobe un la
     </tr>
   </table>
 </div>
-
+</details>
