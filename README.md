@@ -14,9 +14,7 @@
 </p>
 
 
-Traitement du langage naturel (NLP)
-
-
+# Traitement du langage naturel (NLP)
 <!--////////////////////////////////// TABLE 1 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
 <div align="center">
@@ -56,6 +54,7 @@ Traitement du langage naturel (NLP)
   </table>
 </div>
 
+# Traitement d'images, son, videos.
 <!--////////////////////////////////// TABLE 2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
 <div align="center">
