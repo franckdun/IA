@@ -35,11 +35,6 @@
         <p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
         <p align="center"><a href="https://github.com/franckdun/AI_module-5"> <img src="https://img.shields.io/badge/MODULE_5- Débutez avec ComposeAI -8E24AA" width="#"> </a></p>
       </td>
-      <td> <!-- MODULE 6 descript -->
-        <p align="center"><a href="https://www.descript.com" target="_blank" rel="noreferrer">_________descript_________</a></p>
-        <p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
-        <p align="center"><a href="https://github.com/franckdun/AI_module-6"> <img src="https://img.shields.io/badge/MODULE_6- Débutez avec Descript -8E24AA" width="#"> </a></p>
-      </td>
     </tr>
   </table>
 </div>
@@ -58,6 +53,11 @@
         <p align="center"><a href="https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F" target="_blank" rel="noreferrer">________midjourney________</a></p>
         <p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
         <p align="center"><a href="https://github.com/franckdun/IA_module-3"> <img src="https://img.shields.io/badge/MODULE_3- Débutez avec l'IA -8E24AA" width="#"> </a></p>
+      </td>
+      <td> <!-- MODULE 6 descript -->
+        <p align="center"><a href="https://www.descript.com" target="_blank" rel="noreferrer">_________descript_________</a></p>
+        <p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
+        <p align="center"><a href="https://github.com/franckdun/AI_module-6"> <img src="https://img.shields.io/badge/MODULE_6- Débutez avec Descript -8E24AA" width="#"> </a></p>
       </td>
       <td> <!-- MODULE 4 -->
         <p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________*******_________</a></p>
