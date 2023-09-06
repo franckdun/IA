@@ -25,23 +25,23 @@
         <p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
         <p align="center"><a href="https://github.com/franckdun/IA_module-1"> <img src="https://img.shields.io/badge/MODULE_1- Débutez avec chatGPT -8E24AA" width="#"> </a></p>
       </td>
-      <td> <!-- MODULE 2 -->
+      <td> <!-- MODULE 2 stablediffusionweb -->
         <p align="center"><a href="https://stablediffusionweb.com/" target="_blank" rel="noreferrer">____stablediffusionweb____</a></p>
         <p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
         <p align="center"><a href="https://github.com/franckdun/IA_module-2"> <img src="https://img.shields.io/badge/MODULE_2- Débutez avec l'IA -8E24AA" width="#"> </a></p>
       </td>
-      <td> <!-- MODULE 3 -->
+      <td> <!-- MODULE 3 midjourney -->
         <p align="center"><a href="https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F" target="_blank" rel="noreferrer">________midjourney________</a></p>
         <p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
         <p align="center"><a href="https://github.com/franckdun/IA_module-3"> <img src="https://img.shields.io/badge/MODULE_3- Débutez avec l'IA -8E24AA" width="#"> </a></p>
       </td>
-      <td> <!-- MODULE 4 -->
+      <td> <!-- MODULE 4 GoogleBard -->
         <p align="center"><a href="https://github.com/franckdun/Bard" target="_blank" rel="noreferrer">_________GoogleBard_________</a></p>
         <p align="center"><a href="https://bard.google.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
         <p align="center"><a href="https://github.com/franckdun/Bard"> <img src="https://img.shields.io/badge/MODULE_4- Débutez avec Bard -8E24AA" width="#"> </a></p>
       </td>
-      <td> <!-- MODULE 5 -->
-        <p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________*******_________</a></p>
+      <td> <!-- MODULE 5 compose ai-->
+        <p align="center"><a href="https://guide.compose.ai/" target="_blank" rel="noreferrer">_________composeIA_________</a></p>
         <p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
       </td>
       <td> <!-- MODULE 6 -->
