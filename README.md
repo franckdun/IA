@@ -39,7 +39,7 @@
   </table>
 </div>
 
-# Traitement d'images, son, videos.
+# Traitement d'images, audio, videos.
 <!--////////////////////////////////// TABLE 2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
 <div align="center">
