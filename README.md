@@ -88,10 +88,10 @@
         <p align="center"><a href="https://pylote.io/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
         <p align="center"><a href="https://github.com/franckdun/IA_module-9"> <img src="https://img.shields.io/badge/MODULE_- Débutez avec Pilote -8E24AA" width="#"> </a></p>
       </td>
-      <td> <!-- MODULE 3 -->
-        <p align="center"><a href="https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F" target="_blank" rel="noreferrer">________midjourney________</a></p>
-        <p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
-        <p align="center"><a href="https://github.com/franckdun/IA_module-3"> <img src="https://img.shields.io/badge/MODULE_3- Débutez avec l'IA -8E24AA" width="#"> </a></p>
+      <td> <!-- MODULE 3 durable -->
+        <p align="center"><a href="https://durable.co/" target="_blank" rel="noreferrer">________Durable________</a></p>
+        <p align="center"><a href="https://durable.co/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
+        <p align="center"><a href="https://github.com/franckdun/IA_module-3"> <img src="https://img.shields.io/badge/MODULE_11- Débutez avec Durable -8E24AA" width="#"> </a></p>
       </td>
       <td> <!-- MODULE 6 descript -->
         <p align="center"><a href="https://www.descript.com" target="_blank" rel="noreferrer">_________Descript_________</a></p>
