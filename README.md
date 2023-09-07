@@ -93,21 +93,6 @@
         <p align="center"><a href="https://durable.co/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
         <p align="center"><a href="https://github.com/franckdun/IA_module-3"> <img src="https://img.shields.io/badge/MODULE_11- Débutez avec Durable -8E24AA" width="#"> </a></p>
       </td>
-      <td> <!-- MODULE 6 descript -->
-        <p align="center"><a href="https://www.descript.com" target="_blank" rel="noreferrer">_________Descript_________</a></p>
-        <p align="center"><a href="https://web.descript.com/workspaces/d-52f432fe-0476-479f-991a-4d867c4bb194" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
-        <p align="center"><a href="https://github.com/franckdun/AI_module-6"> <img src="https://img.shields.io/badge/MODULE_6- Débutez avec Descript -8E24AA" width="#"> </a></p>
-      </td>
-      <td> <!-- MODULE 7 -->
-        <p align="center"><a href="https://www.browse.ai/" target="_blank" rel="noreferrer">_________BrowseAI_________</a></p>
-        <p align="center"><a href="https://www.browse.ai/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
-         <p align="center"><a href="https://github.com/franckdun/AI_module-6/"> <img src="https://img.shields.io/badge/MODULE_7- Débutez avec BrowseAI -8E24AA" width="#"> </a></p>
-      </td>
-      <td> <!-- MODULE 8 -->
-        <p align="center"><a href="https://tome.app" target="_blank" rel="noreferrer">_________Tome_________</a></p>
-        <p align="center"><a href="https://tome.app/franckdun" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
-        <p align="center"><a href="https://github.com/franckdun/AI_module-6/"> <img src="https://img.shields.io/badge/MODULE_8- Débutez avec Tome -8E24AA" width="#"> </a></p>
-      </td>
       <td> <!-- MODULE 6 -->
         <p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________*******_________</a></p>
         <p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
