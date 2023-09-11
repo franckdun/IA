@@ -93,9 +93,10 @@
         <p align="center"><a href="https://durable.co/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
         <p align="center"><a href="https://github.com/franckdun/IA_module-3"> <img src="https://img.shields.io/badge/MODULE_11- Débutez avec Durable -8E24AA" width="#"> </a></p>
       </td>
-      <td> <!-- MODULE 6 -->
-        <p align="center"><a href="https://github.com/franckdun/zonebiz" target="_blank" rel="noreferrer">_________*******_________</a></p>
-        <p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
+      <td> <!-- MODULE 12 -->
+        <p align="center"><a href="https://github.com/KillianLucas/open-interpreter" target="_blank" rel="noreferrer">_________OpenInterpreter_________</a></p>
+        <p align="center"><a href="https://github.com/KillianLucas/open-interpreter" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
+        <p align="center"><a href="https://github.com/KillianLucas/open-interpreter"> <img src="https://img.shields.io/badge/MODULE_12- Débutez avec Open Interpreter -8E24AA" width="#"> </a></p>
       </td>
     </tr>
   </table>
