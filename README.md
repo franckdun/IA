@@ -14,7 +14,7 @@
 </p>
 
 
-# Traitement du langage naturel (NLP)
+# Traitement du langage naturel (NLP) par les LLM (Large Language Model)
 <!--////////////////////////////////// TABLE 1 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
 <div align="center">
@@ -24,6 +24,11 @@
         <p align="center"><a href="https://chat.openai.com/" target="_blank" rel="noreferrer">_________ChatGPT_________</a></p>
         <p align="center"><a href="#" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
         <p align="center"><a href="https://github.com/franckdun/IA_module-1"> <img src="https://img.shields.io/badge/MODULE_1- Débutez avec chatGPT -8E24AA" width="#"> </a></p>
+      </td>
+      <td> <!-- MODULE 2 LLama2 -->
+        <p align="center"><a href="https://ai.meta.com/llama/" target="_blank" rel="noreferrer">_________Meta-LLama2_________</a></p>
+        <p align="center"><a href="https://bard.google.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/franckdun/Img-Banck/blob/main/img/github.svg" width="100" height="100" alt="franckdun" /> </a></p>
+        <p align="center"><a href="https://www.llama2.ai/"> <img src="https://img.shields.io/badge/MODULE_4- Débutez avec LLama2 -8E24AA" width="#"> </a></p>
       </td>
       <td> <!-- MODULE 4 GoogleBard -->
         <p align="center"><a href="https://github.com/franckdun/Bard" target="_blank" rel="noreferrer">_________GoogleBard_________</a></p>
